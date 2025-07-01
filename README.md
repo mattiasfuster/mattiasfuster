@@ -84,7 +84,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Maintenance and enhancement of the Coffee Engine
-- Real Swiss Army knife 🤡
+- Real Swiss Army knife (⌐■‿■)
 [Repository →](https://github.com/GameAcademy84/Freak_Squad)
 
 ### 2023 — **Coffee-Engine** (School & Personal Project) • 🛠️

@@ -59,7 +59,12 @@
 ## 📅 Projects & Contributions Timeline
 
 ### 2025 — **ImEngine** (Personal Project) • 🛠️
-*Custom modular game engine with Vulkan renderer and ImGui editor.*  
+*Custom modular game engine with Vulkan renderer and ImGui editor.*
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
+  <img src="https://img.shields.io/badge/Vulkan-API-red" alt="Vulkan"/>
+  <img src="https://img.shields.io/badge/ImGui-Docking-yellow" alt="ImGui"/>
+</p>
 - In Progress
 [Repository →](https://github.com/mattiasfuster/ImEngine)
 

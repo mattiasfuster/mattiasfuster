@@ -94,6 +94,12 @@
 
 ### 2024 — **Crush Cars** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-5-Black?logo=unity&logoColor=white" alt="Unity" />
+</p>
+
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Designed the game code architecture
 - UI/UX
@@ -105,6 +111,12 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 ### 2023 — **Freak Squad** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
+  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+</p>
+
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Maintenance and enhancement of the Coffee Engine
 - Real Swiss Army knife (⌐■‿■)
@@ -114,7 +126,13 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 <h1 align="center"></h1>
 
 ### 2023 — **Coffee-Engine** (School & Personal Project) • 🛠️
-*A layer built on top of SFML that manages resources, assets, scenes, game objects, and more.*  
+*A layer built on top of SFML that manages resources, assets, scenes, game objects, and more.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
+  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+</p>
+
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)
 - Resource Manager with multithreading
 - To facilitate the development of our end-of-year game Freak Squad.
@@ -125,7 +143,13 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 ### 2022 — **Lilo** (School Project) • 🎮
 *On a peaceful island inhabited by Onis, fabulous creatures with unique powers, young Lil'O is the guardian of this haven of tranquility.
-But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the island's balance is threatened.*  
+But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the island's balance is threatened.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
+  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+</p>
+
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)
 - Resource Manager with multithreading
 - To facilitate the development of our end-of-year game Freak Squad.

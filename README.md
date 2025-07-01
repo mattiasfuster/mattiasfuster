@@ -56,6 +56,24 @@
 
 ---
 
+## 📅 Projects & Contributions Timeline
+
+### 2025 — **ImEngine** (Personal Project)
+*Custom modular game engine with Vulkan renderer and ImGui editor.*  
+- Designed an entity-component system and scene graph  
+- Developed Vulkan rendering pipeline (in progress)  
+- Built custom tools and live editor UI using ImGui  
+[Repository →](https://github.com/mattiasfuster/ImEngine)
+
+### 2025 — **Wild-31** (School Project) • <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine" alt="Unreal Engine 5"/>
+*Beat down, crush, and take down the mobsters and the Big Boss who silence and oppress the people, to liberate the city.*  
+- Game architechture (Entities, gameplay systems, etc)
+- Tools ()  
+- Built custom tools and live editor UI using ImGui  
+[Repository →](https://github.com/mattiasfuster/ImEngine)
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: fuster.mattias@gmail.com

@@ -111,13 +111,13 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 ### 2023 — **Freak Squad** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
+To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
   <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
-To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Maintenance and enhancement of the Coffee Engine
 - Real Swiss Army knife (⌐■‿■)
 

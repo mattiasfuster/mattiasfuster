@@ -93,14 +93,13 @@
 <h1 align="center"></h1>
 
 ### 2024 — **Crush Cars** (School Project) • 🎮
-*In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
+*Dive into watercolor arenas where karting becomes a combat sport! Dash, charge, and eliminate your opponents using a crazy arsenal of items, all set in a unique atmosphere inspired by the wild 1930s cartoons.*
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-6f42c1?logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Unity-5-Black?logo=unity&logoColor=white" alt="Unity" />
 </p>
 
-To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Designed the game code architecture
 - UI/UX
 - Local multiplayer system and inputs managment

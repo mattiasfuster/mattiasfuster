@@ -60,9 +60,7 @@
 
 ### 2025 — **ImEngine** (Personal Project) • 🛠️
 *Custom modular game engine with Vulkan renderer and ImGui editor.*  
-- Designed an entity-component system
-- Developed Vulkan rendering pipeline (in progress)
-- Built custom tools and live editor UI using ImGui
+- In Progress
 [Repository →](https://github.com/mattiasfuster/ImEngine)
 
 ### 2025 — **Wild-31** (School Project) • 🎮

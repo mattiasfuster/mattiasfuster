@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🎓 Game Developper • BTS SIO (SLAM) • Scientific Baccalaureate (SI)
-- 🧱 Focus: Low-level systems, rendering, engine architecture
+- 🧱 Focus: Low-level systems, rendering, game engine
 - 🛠️ Working on **ImEngine**, a lightweight modular C++ game engine
 - 🧪 Interested in: modern C++, Vulkan pipelines, ECS, AI, behavior trees
 - 💡 Always exploring better design, modular tools, and clean systems
@@ -47,22 +47,11 @@
 
 ---
 
-## 📘 Research & Exploration
-
-- 📄 **Thesis**: *“Building a Custom Game Engine with Vulkan: Rendering, Tools, and Modularity”*
-- 🔬 Topics: 
-  - Mesh simplification (QEM)
-  - Component-based architecture
-  - Runtime tooling
-  - Procedural logic & behavior systems
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mattiasfuster&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiasfuster&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
@@ -70,7 +59,7 @@
 ## 📫 Contact
 
 - 📧 Email: fuster.mattias@gmail.com
-- 🌍 Website / Portfolio: mattiasfuster.com  
+- 🌍 Website / Portfolio: www.mattiasfuster.com  
 - 💼 LinkedIn: www.linkedin.com/in/mattias-fuster  
 
 ---

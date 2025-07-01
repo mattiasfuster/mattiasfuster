@@ -71,6 +71,8 @@
 
 [Repository →](https://github.com/mattiasfuster/ImEngine)
 
+<h1 align="center"></h1>
+
 ### 2025 — **Wild-31** (School Project) • 🎮
 *Beat down, crush, and take down the mobsters and the Big Boss who silence and oppress the people, to liberate the city.*
 
@@ -98,6 +100,8 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 [Repository →](https://github.com/GameAcademy84/Coffee_Engine)
 
+<h1 align="center"></h1>
+
 ### 2023 — **Freak Squad** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
@@ -106,6 +110,8 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 [Repository →](https://github.com/GameAcademy84/Freak_Squad)
 
+<h1 align="center"></h1>
+
 ### 2023 — **Coffee-Engine** (School & Personal Project) • 🛠️
 *A layer built on top of SFML that manages resources, assets, scenes, game objects, and more.*  
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)
@@ -113,6 +119,8 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 - To facilitate the development of our end-of-year game Freak Squad.
 
 [Repository →](https://github.com/GameAcademy84/Coffee_Engine)
+
+<h1 align="center"></h1>
 
 ### 2022 — **Lilo** (School Project) • 🎮
 *On a peaceful island inhabited by Onis, fabulous creatures with unique powers, young Lil'O is the guardian of this haven of tranquility.

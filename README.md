@@ -27,12 +27,12 @@
 
 ---
 
-## 🔧 Current Projects
+## 🔧 Current Project
 
 ### 🎮 ImEngine — *Custom C++ Game Engine*
 - Modular architecture: Engine + Editor (ImGui)
 - Vulkan-based renderer (in progress)
-- Allocators, Scene graph, ECS prototype, event system, serialization
+- Allocators, ECS prototype, event system, serialization
 - Tools-first approach with live editing support
 
 ---

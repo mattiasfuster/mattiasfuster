@@ -70,7 +70,7 @@
 - Designed the game code architecture (entities, class hierarchy, etc.)
 - Tooling (animation collider management, editor helper to bind input actions to callbacks)
 - Big Boss AI (Behavior Trees, Tasks, Animations, etc.)
-[Repository →](https://github.com/mattiasfuster/ImEngine)
+[Repository →](https://github.com/GameAcademy84/Project-Wild)
 
 ---
 

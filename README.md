@@ -95,7 +95,7 @@
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-6f42c1?logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Unity-5-Black?logo=unity&logoColor=white" alt="Unity" />
 </p>
 

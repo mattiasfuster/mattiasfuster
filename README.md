@@ -72,7 +72,7 @@
 - Big Boss AI (Behavior Trees, Tasks, Animations, etc.)
 [Repository →](https://github.com/GameAcademy84/Project-Wild)
 
-### 2024 — **Crush Cars** (School Project) • 🛠️
+### 2024 — **Crush Cars** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Designed the game code architecture
@@ -80,7 +80,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 - Local multiplayer system and inputs managment
 [Repository →](https://github.com/GameAcademy84/Coffee_Engine)
 
-### 2023 — **Freak Squad** (School Project) • 🛠️
+### 2023 — **Freak Squad** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
 - Maintenance and enhancement of the Coffee Engine
@@ -94,7 +94,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 - To facilitate the development of our end-of-year game Freak Squad.
 [Repository →](https://github.com/GameAcademy84/Coffee_Engine)
 
-### 2022 — **Lilo** (School Project) • 🛠️
+### 2022 — **Lilo** (School Project) • 🎮
 *On a peaceful island inhabited by Onis, fabulous creatures with unique powers, young Lil'O is the guardian of this haven of tranquility.
 But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the island's balance is threatened.*  
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)

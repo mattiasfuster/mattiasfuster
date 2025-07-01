@@ -113,7 +113,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
-  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*
@@ -129,7 +129,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
-  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)
@@ -146,7 +146,7 @@ But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
-  <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
 - Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Mattias FUSTER</h1>
 
 <p align="center">
-  🛠️ Game Engine Developer • Real-Time 3D Rendering • C++ • Vulkan • Unreal Engine 5
+  🛠️ Game Engine Developer • Real-Time 3D Rendering • C++ • Vulkan • Unreal Engine 5 🛠️
 </p>
 
 <p align="center">
@@ -58,21 +58,18 @@
 
 ## 📅 Projects & Contributions Timeline
 
-### 2025 — **ImEngine** (Personal Project)
+### 2025 — **ImEngine** (Personal Project) • 🛠️
 *Custom modular game engine with Vulkan renderer and ImGui editor.*  
-- Designed an entity-component system and scene graph  
-- Developed Vulkan rendering pipeline (in progress)  
-- Built custom tools and live editor UI using ImGui  
+- Designed an entity-component system
+- Developed Vulkan rendering pipeline (in progress)
+- Built custom tools and live editor UI using ImGui
 [Repository →](https://github.com/mattiasfuster/ImEngine)
 
-<p align="right">
-  <span style="vertical-align:middle;">2025 — <strong>Wild-31</strong></span>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine" alt="Unreal Engine 5" height="20" style="vertical-align:middle;">
-</p>
+### 2025 — **Wild-31** (School Project) • 🎮
 *Beat down, crush, and take down the mobsters and the Big Boss who silence and oppress the people, to liberate the city.*  
-- Game architechture (Entities, gameplay systems, etc)
-- Tools ()  
-- Built custom tools and live editor UI using ImGui  
+- Designed the game code architecture (entities, class hierarchy, etc.)
+- Tooling (animation collider management, editor helper to bind input actions to callbacks)
+- Big Boss AI (Behavior Trees, Tasks, Animations, etc.)
 [Repository →](https://github.com/mattiasfuster/ImEngine)
 
 ---
@@ -80,8 +77,8 @@
 ## 📫 Contact
 
 - 📧 Email: fuster.mattias@gmail.com
-- 🌍 Website / Portfolio: www.mattiasfuster.com  
-- 💼 LinkedIn: www.linkedin.com/in/mattias-fuster  
+- 🌍 Website / Portfolio: www.mattiasfuster.com
+- 💼 LinkedIn: www.linkedin.com/in/mattias-fuster
 
 ---
 

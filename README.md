@@ -87,6 +87,8 @@
 
 [Repository →](https://github.com/GameAcademy84/Project-Wild)
 
+<h1 align="center"></h1>
+
 ### 2024 — **Crush Cars** (School Project) • 🎮
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 To face this threat, the government creates hybrid fighters, half-monster, half-human, endowed with extraordinary abilities.*

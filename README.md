@@ -74,11 +74,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine" alt="Unreal Engine 5"/>
   <img src="https://img.shields.io/badge/ImGui-Docking-yellow" alt="ImGui"/>
+  <img src="https://img.shields.io/badge/Wwise-sound-orange?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsomeuser%2Frepo%2Fmain%2Fwwise-logo.svg&logoWidth=20" alt="Wwise"/>
 </p>
-
-  ![Wwise](https://img.shields.io/badge/Wwise-sound-orange?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsomeuser%2Frepo%2Fmain%2Fwwise-logo.svg&logoWidth=20)
-
-
 - Designed the game code architecture (entities, class hierarchy, etc.)
 - Tooling (animation collider management, editor helper to bind input actions to callbacks)
 - Big Boss AI (Behavior Trees, Tasks, Animations, etc.)

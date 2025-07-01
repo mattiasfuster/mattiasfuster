@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue.svg" alt="C++"/>
   <img src="https://img.shields.io/badge/Vulkan-API-red" alt="Vulkan"/>
   <img src="https://img.shields.io/badge/OpenGL-Graphics-green.svg" alt="OpenGL"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine" alt="Unreal Engine 5"/>
-  <img src="https://img.shields.io/badge/Unity-6-lightgrey?logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/Unity-6.1-lightgrey?logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5.5-black?logo=unrealengine" alt="Unreal Engine 5"/>
   <img src="https://img.shields.io/badge/ImGui-Docking-yellow" alt="ImGui"/>
   <img src="https://img.shields.io/badge/CLion-IDE-green?logo=jetbrains" alt="CLion"/>
 </p>

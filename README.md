@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Vulkan-API-red" alt="Vulkan"/>
   <img src="https://img.shields.io/badge/OpenGL-Graphics-green.svg" alt="OpenGL"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine" alt="Unreal Engine 5"/>
+  <img src="https://img.shields.io/badge/Unity-Black?logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/ImGui-Docking-yellow" alt="ImGui"/>
   <img src="https://img.shields.io/badge/CLion-IDE-green?logo=jetbrains" alt="CLion"/>
 </p>

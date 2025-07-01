@@ -40,9 +40,9 @@
 | Domain            | Tools / Tech                                                                 |
 |-------------------|------------------------------------------------------------------------------|
 | Language          | C, C++, C#, Python, HTML-CSS, PHP, SQL                                       |
-| Rendering         | Vulkan, OpenGL, GLAD, GLFW, SDL2                                             |
+| Rendering         | Vulkan, OpenGL, GLAD, GLFW                                                   |
 | Engine Dev        | ImGui, Dear ImGui Docking, CMake, ECS, Optick                                |
-| Game Dev          | Unreal Engine 5 Blueprint and C++, Unity, AI, Animation, Inputs Management   |
+| Game Dev          | Unreal Engine 5 BP and C++, Unity, SFML                                      |
 | Tools & IDEs      | Git, GitHub, Visual Studio, CLion                                            |
 
 ---

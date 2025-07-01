@@ -112,7 +112,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 *In the near future, the world is overrun by mutants, and human civilization is on the brink of collapse.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
+  <img src="https://img.shields.io/badge/C%2B%2B-14-red" alt="C++14" />
   <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
@@ -128,7 +128,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 *A layer built on top of SFML that manages resources, assets, scenes, game objects, and more.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
+  <img src="https://img.shields.io/badge/C%2B%2B-14-red" alt="C++14" />
   <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
@@ -145,7 +145,7 @@ To face this threat, the government creates hybrid fighters, half-monster, half-
 But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the island's balance is threatened.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-14-blue" alt="C++14" />
+  <img src="https://img.shields.io/badge/C%2B%2B-14-red" alt="C++14" />
   <img src="https://img.shields.io/badge/SFML-0099ff?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 

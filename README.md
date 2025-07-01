@@ -150,9 +150,8 @@ But when the evil Dr. Steel Jaw kidnaps all the Onis to exploit their power, the
   <img src="https://img.shields.io/badge/SFML-28a745?style=flat&logo=&logoColor=white" alt="SFML" />
 </p>
 
-- Designed the code architecture (game objects & componenents, scenes managment, resources, etc.)
-- Resource Manager with multithreading
-- To facilitate the development of our end-of-year game Freak Squad.
+- Network Management systems for online levels
+- UI/UX
 
 [Repository →](https://github.com/GameAcademy84/Lilo_Project)
 
